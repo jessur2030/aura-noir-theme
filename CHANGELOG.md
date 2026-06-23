@@ -2,7 +2,7 @@
 
 All notable changes to this extension are documented in this file.
 
-## [1.2.0]
+## [1.2.3]
 
 - Grew Aura Noir into a **nine-theme family** sharing one scannable role→hue strategy.
 - Added seven dark accent variants: **Aura Noir** (violet), **Modern** (azure), **Aurora** (teal), **Ember** (amber), **Rose**, **Forest** (green), and **Crimson** (red).
