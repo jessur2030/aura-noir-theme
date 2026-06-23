@@ -88,6 +88,16 @@
   },
   "tokenColors": [
     {
+      "name": "JSX/HTML text content",
+      "scope": [
+        "meta.jsx.children",
+        "text.html.basic"
+      ],
+      "settings": {
+        "foreground": "#3D3F44"
+      }
+    },
+    {
       "name": "Comments",
       "scope": [
         "comment",

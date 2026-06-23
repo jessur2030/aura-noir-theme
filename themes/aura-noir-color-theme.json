@@ -278,6 +278,16 @@
       }
     },
     {
+      "name": "JSX/HTML text content",
+      "scope": [
+        "meta.jsx.children",
+        "text.html.basic"
+      ],
+      "settings": {
+        "foreground": "#CDCED2"
+      }
+    },
+    {
       "name": "JSON Keys",
       "scope": [
         "support.type.property-name.json"
