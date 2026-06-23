@@ -1,8 +1,8 @@
 # Aura Noir
 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/jessusdev.aura-noir-theme?label=Marketplace&color=C2A3FF)](https://marketplace.visualstudio.com/items?itemName=jessusdev.aura-noir-theme)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/jessusdev.aura-noir-theme?color=4FA6E6)](https://marketplace.visualstudio.com/items?itemName=jessusdev.aura-noir-theme)
-[![Rating](https://img.shields.io/visual-studio-marketplace/r/jessusdev.aura-noir-theme?color=45C7D4)](https://marketplace.visualstudio.com/items?itemName=jessusdev.aura-noir-theme&ssr=false#review-details)
+[![Version](https://vsmarketplacebadges.dev/version-short/jessusdev.aura-noir-theme.svg)](https://marketplace.visualstudio.com/items?itemName=jessusdev.aura-noir-theme)
+[![Installs](https://vsmarketplacebadges.dev/installs-short/jessusdev.aura-noir-theme.svg)](https://marketplace.visualstudio.com/items?itemName=jessusdev.aura-noir-theme)
+[![Rating](https://vsmarketplacebadges.dev/rating-short/jessusdev.aura-noir-theme.svg)](https://marketplace.visualstudio.com/items?itemName=jessusdev.aura-noir-theme&ssr=false#review-details)
 
 Aura Noir is an ergonomic VS Code theme family built to make code structure read fast without turning the editor into a neon blur. It uses a low-glare slate background, refined syntax separation, and semantic token support so modern languages are easy to read during long coding sessions.
 
