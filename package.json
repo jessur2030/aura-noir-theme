@@ -1,19 +1,30 @@
 {
-  "name": "jrcode-dark-theme",
-  "displayName": "JRCode dark",
-  "description": "jrcode-dark is a simple but awesome dark theme for VS Code",
-  "version": "1.0.0",
+  "name": "aura-noir-theme",
+  "displayName": "Aura Noir",
+  "description": "An ergonomic VS Code theme family with high-contrast, scannable syntax and semantic token coverage. Ships seven dark accents (Noir, Modern, Aurora, Ember, Rose, Forest, Crimson) and two light themes (Lumen, Day).",
+  "version": "1.2.0",
   "publisher": "Jessusdev",
-  "icon": "",
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#0B0C10",
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jessur2030/jrcode-dark-theme"
+    "url": "https://github.com/jessur2030/aura-noir-theme"
   },
+  "bugs": {
+    "url": "https://github.com/jessur2030/aura-noir-theme/issues"
+  },
+  "homepage": "https://github.com/jessur2030/aura-noir-theme#readme",
   "keywords": [
     "theme",
     "dark theme",
-    "jrcode",
-    "jrcode dark"
+    "light theme",
+    "aura noir",
+    "semantic highlighting",
+    "scannable",
+    "developer theme"
   ],
   "engines": {
     "vscode": "^1.61.0"
@@ -24,9 +35,49 @@
   "contributes": {
     "themes": [
       {
-        "label": "JRcode dark",
+        "label": "Aura Noir",
         "uiTheme": "vs-dark",
-        "path": "./themes/jrcode dark-color-theme.json"
+        "path": "./themes/aura-noir-color-theme.json"
+      },
+      {
+        "label": "Aura Noir Modern",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aura-noir-modern-color-theme.json"
+      },
+      {
+        "label": "Aura Noir Aurora",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aura-noir-aurora-color-theme.json"
+      },
+      {
+        "label": "Aura Noir Ember",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aura-noir-ember-color-theme.json"
+      },
+      {
+        "label": "Aura Noir Rose",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aura-noir-rose-color-theme.json"
+      },
+      {
+        "label": "Aura Noir Forest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aura-noir-forest-color-theme.json"
+      },
+      {
+        "label": "Aura Noir Crimson",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aura-noir-crimson-color-theme.json"
+      },
+      {
+        "label": "Aura Lumen",
+        "uiTheme": "vs",
+        "path": "./themes/aura-lumen-color-theme.json"
+      },
+      {
+        "label": "Aura Day",
+        "uiTheme": "vs",
+        "path": "./themes/aura-day-color-theme.json"
       }
     ]
   }
