@@ -2,7 +2,7 @@
   "name": "aura-noir-theme",
   "displayName": "Aura Noir",
   "description": "An ergonomic VS Code theme family with high-contrast, scannable syntax and semantic token coverage. Ships seven dark accents (Noir, Modern, Aurora, Ember, Rose, Forest, Crimson) and two light themes (Lumen, Day).",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "publisher": "Jessusdev",
   "icon": "assets/icon.png",
   "galleryBanner": {
