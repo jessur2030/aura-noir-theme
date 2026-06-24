@@ -8,7 +8,7 @@ Aura Noir is an ergonomic VS Code theme family built to make code structure read
 
 **[Install from the VS Code Marketplace →](https://marketplace.visualstudio.com/items?itemName=jessusdev.aura-noir-theme)**
 
-Every variant gives each role its own hue so you can scan at a glance: green readable comments, variables that stand apart from plain text, legible punctuation (`:`, `$`, `.`, braces, operators), and a deliberate split between declaration keywords (`const`, `function`) and control-flow keywords (`if`, `return`, `import`).
+Every variant gives each role its own hue so you can scan at a glance: green readable comments, variables that stand apart from plain text, and legible punctuation and operators.
 
 ## Variants
 
@@ -16,18 +16,18 @@ The extension ships nine selectable themes that share the same role→hue strate
 
 ### Dark
 
-- **Aura Noir** — *violet accent.* The signature look: purple keywords, salmon strings, teal-green functions, gold types. Warm and distinctive.
-- **Aura Noir Modern** — *azure accent.* VS Code Dark Modern, rebuilt and improved: blue declaration keywords, purple control flow, yellow functions, teal types, light-blue variables, bright legible punctuation — on the deeper Aura Noir black background. *Start here if you love Dark Modern.*
-- **Aura Noir Aurora** — *teal/cyan accent.* Cool cyan keywords, mint functions, lavender control flow, with warm peach strings as contrast.
-- **Aura Noir Ember** — *amber accent.* Warm amber keywords, gold functions, coral numbers, anchored by cool teal types and blue variables.
-- **Aura Noir Rose** — *rose accent.* Rose-pink keywords, violet control flow, cyan functions, gold types — soft and vibrant.
-- **Aura Noir Forest** — *green accent.* Emerald keywords, gold functions, cyan types, pink control flow — fresh and calm.
-- **Aura Noir Crimson** — *red accent.* Crimson keywords, violet control flow, gold functions, cyan types — bold and high-energy.
+- **Aura Noir** (*violet accent*): purple keywords, salmon strings, teal-green functions, gold types.
+- **Aura Noir Modern** (*azure accent*): VS Code Dark Modern rebuilt and improved, with blue declaration keywords, purple control flow, yellow functions, teal types, light-blue variables, and bright legible punctuation on the deeper Aura Noir black background. *Start here if you love Dark Modern.*
+- **Aura Noir Aurora** (*teal/cyan accent*): cyan keywords, mint functions, lavender control flow, and warm peach strings for contrast.
+- **Aura Noir Ember** (*amber accent*): amber keywords, gold functions, coral numbers, anchored by cool teal types and blue variables.
+- **Aura Noir Rose** (*rose accent*): rose-pink keywords, violet control flow, cyan functions, gold types.
+- **Aura Noir Forest** (*green accent*): emerald keywords, gold functions, cyan types, pink control flow.
+- **Aura Noir Crimson** (*red accent*): crimson keywords, violet control flow, gold functions, cyan types.
 
 ### Light
 
-- **Aura Lumen** — *violet accent.* A clean light background with the same scannable role mapping: violet keywords, magenta control flow, teal types, dark-blue variables, green comments.
-- **Aura Day** — *azure accent.* The light companion to Modern: azure keywords, purple control flow, on a soft off-white background.
+- **Aura Lumen** (*violet accent*): a light background with the same role mapping, violet keywords, magenta control flow, teal types, dark-blue variables, green comments.
+- **Aura Day** (*azure accent*): the light companion to Modern, with azure keywords and purple control flow on a soft off-white background.
 
 ## What makes it useful
 
@@ -41,7 +41,7 @@ The extension ships nine selectable themes that share the same role→hue strate
 1. Open the Extensions view in VS Code (`Cmd+Shift+X` or `Ctrl+Shift+X`), or open the [Marketplace page](https://marketplace.visualstudio.com/items?itemName=jessusdev.aura-noir-theme).
 2. Search for `Aura Noir`.
 3. Click Install.
-4. Go to `Preferences: Color Theme` (`Cmd+K Cmd+T`) and pick any Aura variant — seven dark (`Aura Noir`, `Modern`, `Aurora`, `Ember`, `Rose`, `Forest`, `Crimson`) or two light (`Aura Lumen`, `Aura Day`).
+4. Go to `Preferences: Color Theme` (`Cmd+K Cmd+T`) and pick any Aura variant: seven dark (`Aura Noir`, `Modern`, `Aurora`, `Ember`, `Rose`, `Forest`, `Crimson`) or two light (`Aura Lumen`, `Aura Day`).
 
 ## Feedback
 

@@ -10,8 +10,8 @@ All notable changes to this extension are documented in this file.
 - Scannability fixes applied across every variant:
   - Comments are now green and readable instead of dim italic.
   - Variables get their own hue, distinct from plain editor text.
-  - Declaration keywords (`const`, `function`) are split from control-flow keywords (`if`, `return`, `import`).
-  - Brightened punctuation, operators, and template `${ }` expressions (`:`, `$`, `.`, braces) for legibility.
+  - Declaration keywords are split from control-flow keywords.
+  - Brightened punctuation, operators, and template `${ }` expressions for legibility.
 - Each variant carries its accent through the workbench chrome (activity bar, badges, buttons, cursor, tab indicator, bracket matches).
 
 ## [1.1.0]
