@@ -1,2 +1,4 @@
 node_modules
 *.vsix
+scripts/gen-shots.js
+.shots
