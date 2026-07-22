@@ -2,3 +2,10 @@ node_modules
 *.vsix
 scripts/gen-shots.js
 .shots
+
+# Keep only the screenshots used in the README
+assets/shots/*
+!assets/shots/aura-noir-modern.png
+!assets/shots/aura-noir-ember.png
+!assets/shots/aura-noir-crimson.png
+!assets/shots/aura-day.png

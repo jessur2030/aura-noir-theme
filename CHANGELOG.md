@@ -2,6 +2,11 @@
 
 All notable changes to this extension are documented in this file.
 
+## [1.2.5]
+
+- Added README screenshots for **Aura Noir Modern**, **Ember**, **Crimson**, and **Aura Day**.
+- Tightened the README and changelog wording.
+
 ## [1.2.3]
 
 - Grew Aura Noir into a **nine-theme family** sharing one scannable role→hue strategy.

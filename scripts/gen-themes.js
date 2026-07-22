@@ -183,8 +183,9 @@ function param(p) {
   return s;
 }
 
-function tokens(p) {
+function tokens(p, isLight) {
   return [
+    { name: "JSX/HTML text content", scope: ["meta.jsx.children", "text.html.basic"], settings: { foreground: p.jsxText || (isLight ? "#3D3F44" : "#CDCED2") } },
     { name: "Comments", scope: ["comment", "punctuation.definition.comment"], settings: { foreground: p.comment } },
     { name: "Strings", scope: ["string", "string.quoted", "punctuation.definition.string", "markup.inline.raw.markdown"], settings: { foreground: p.string } },
     { name: "Template expression punctuation ${ }", scope: ["punctuation.definition.template-expression", "punctuation.section.embedded", "meta.template.expression"], settings: { foreground: p.punctuation } },
@@ -364,7 +365,7 @@ for (const t of THEMES) {
     type: isLight ? "light" : "dark",
     semanticHighlighting: true,
     colors: (isLight ? workbenchLight : workbench)(t.p),
-    tokenColors: tokens(t.p),
+    tokenColors: tokens(t.p, isLight),
     semanticTokenColors: semantic(t.p)
   };
   const file = path.join(OUT, `${t.slug}-color-theme.json`);

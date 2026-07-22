@@ -10,6 +10,16 @@ Aura Noir is an ergonomic VS Code theme family built to make code structure read
 
 Every variant gives each role its own hue so you can scan at a glance: green readable comments, variables that stand apart from plain text, and legible punctuation and operators.
 
+## Screenshots
+
+| Aura Noir Modern | Aura Noir Ember |
+| :--- | :--- |
+| ![Aura Noir Modern](https://raw.githubusercontent.com/jessur2030/aura-noir-theme/main/assets/shots/aura-noir-modern.png) | ![Aura Noir Ember](https://raw.githubusercontent.com/jessur2030/aura-noir-theme/main/assets/shots/aura-noir-ember.png) |
+
+| Aura Noir Crimson | Aura Day (light) |
+| :--- | :--- |
+| ![Aura Noir Crimson](https://raw.githubusercontent.com/jessur2030/aura-noir-theme/main/assets/shots/aura-noir-crimson.png) | ![Aura Day](https://raw.githubusercontent.com/jessur2030/aura-noir-theme/main/assets/shots/aura-day.png) |
+
 ## Variants
 
 The extension ships nine selectable themes that share the same role→hue strategy and differ in their accent, syntax palette, and (for the light pair) background. Pick one in `Preferences: Color Theme`.
